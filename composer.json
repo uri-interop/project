@@ -1,0 +1,13 @@
+{
+    "name": "uri-interop/project",
+    "description": "The Uri-Interop project.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul M. Jones",
+            "email": "pmjones@pmjones.io"
+        }
+    ],
+    "require": {}
+}
